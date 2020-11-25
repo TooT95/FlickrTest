@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Flags</string>
+
+    <string name="dialog_title_download_data">Загрузка данных</string>
+    <string name="dialog_title_open_connection">Соединение</string>
+    <string name="dialog_title_bad_connection">Не удалось загрузить данные</string>
+    <string name="dialog_item_download_data">Загрузка %s элемента</string>
+    <string name="dialog_item_link">Ссылка: %s </string>
+
+</resources>
