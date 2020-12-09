@@ -38,7 +38,7 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
-    private RecyclerView mRecyclerView;
+    private RecyclerView mRecyclerView; 
     private List<FlickrModel> mFlags;
 
     private AlertDialog mDialog;
